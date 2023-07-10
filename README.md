@@ -1,2 +1,4 @@
 # myproject
 scratch
+
+##project notes
